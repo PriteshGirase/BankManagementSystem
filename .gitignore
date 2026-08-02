@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Build output
+out/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Database files (if you don't want to upload them)
+*.mv.db
+*.trace.db
+
+# OS files
+.DS_Store
+Thumbs.db
